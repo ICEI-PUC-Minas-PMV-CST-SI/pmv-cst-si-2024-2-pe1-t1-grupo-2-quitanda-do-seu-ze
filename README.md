@@ -5,7 +5,7 @@
 
 `DISCIPLINA: Projeto - Fundamentos de Sistemas`
 
-`Eixo: 5`
+`Eixo: 1`
 
 A “Quitanda do seu Zé” utiliza diversos processos de negócio para entregar seus produtos e serviços sendo o principal os processos de Compras, Vendas e Marketing, que envolvem os seguintes subprocessos, processo de cadastro e fidelização do cliente, processamento de pedidos, cotações e contratos, configuração de produtos, determinação de preço, faturamento, verificação de crédito, gerenciamento de comissão, incentivos e planejamento de vendas, gerenciamento de redes sociais, criação e divulgação de ofertas, divulgação de produtos. 
 
