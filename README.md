@@ -1,24 +1,32 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/1D1Ia0cl)
-# Título do Projeto
+# Quitanda Do Seu Ze
 
-`CURSO: Sistemas de Informação`
+`CURSO: Segurança da Informação`
 
-`DISCIPLINA: Projeto - Projeto de Infraestrutura`
+`DISCIPLINA: Projeto - Fundamentos de Sistemas`
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A “Quitanda do seu Zé” utiliza diversos processos de negócio para entregar seus produtos e serviços sendo o principal os processos de Compras, Vendas e Marketing, que envolvem os seguintes subprocessos, processo de cadastro e fidelização do cliente, processamento de pedidos, cotações e contratos, configuração de produtos, determinação de preço, faturamento, verificação de crédito, gerenciamento de comissão, incentivos e planejamento de vendas, gerenciamento de redes sociais, criação e divulgação de ofertas, divulgação de produtos. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+    Fred Barreto Renovato Jacob 
+
+    Julio Cesar Da Silva Abreu 
+
+    Dayanne Cristina Dias Silva 
+
+    Guilherme da Silva dos Santos 
+
+    Isaac Davi Gomes Lessa 
+
+    Rodolfo Ribeiro Franco 
+
+    Lucas de Jesus Santos
 
 ## Orientador
 
-* Nome completo do professor 1
+    Pedro Ivo Alexandre de Oliveira 
 
 
