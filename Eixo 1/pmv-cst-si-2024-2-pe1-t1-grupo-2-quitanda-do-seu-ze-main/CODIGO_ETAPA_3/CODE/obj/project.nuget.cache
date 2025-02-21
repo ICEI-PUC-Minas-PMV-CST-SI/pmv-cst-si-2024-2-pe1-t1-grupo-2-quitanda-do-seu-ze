@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sTUpMgwB/o=",
+  "success": true,
+  "projectFilePath": "C:\\CODIGO_ETAPA_3\\CODE\\ETAPA_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\Julio\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
