@@ -5,28 +5,24 @@
 
 `DISCIPLINA: Projeto - Fundamentos de Sistemas`
 
-`Eixo: 1`
+`Eixo: 2`
 
-A “Quitanda do seu Zé” utiliza diversos processos de negócio para entregar seus produtos e serviços sendo o principal os processos de Compras, Vendas e Marketing, que envolvem os seguintes subprocessos, processo de cadastro e fidelização do cliente, processamento de pedidos, cotações e contratos, configuração de produtos, determinação de preço, faturamento, verificação de crédito, gerenciamento de comissão, incentivos e planejamento de vendas, gerenciamento de redes sociais, criação e divulgação de ofertas, divulgação de produtos. 
+#EXPLICAÇÃO DA EMPRESA
 
-## Integrantes
-
-    Fred Barreto Renovato Jacob 
+## Integrante
 
     Julio Cesar Da Silva Abreu 
 
-    Dayanne Cristina Dias Silva 
-
     Guilherme da Silva dos Santos 
-
-    Isaac Davi Gomes Lessa 
 
     Rodolfo Ribeiro Franco 
 
     Lucas de Jesus Santos
 
+    João Vitor Kuhn Kampff 
+
 ## Orientador
 
-    Pedro Ivo Alexandre de Oliveira 
+    João Carlos Oliveira Caetano
 
 
