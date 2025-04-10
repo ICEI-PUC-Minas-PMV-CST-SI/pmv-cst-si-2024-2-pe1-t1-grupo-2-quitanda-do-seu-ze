@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.9">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="4841" dy="3580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3494" dy="2771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,13 +17,13 @@
           <mxGeometry width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rD__Bi_7_aJGjnoCtn_X-13" value="Detacção de incidentes" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=10;align=center;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="-1025" y="-1430" width="180" height="36" as="geometry" />
+          <mxGeometry x="-990" y="-1430" width="180" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rD__Bi_7_aJGjnoCtn_X-14" value="" style="fillColor=#000000;strokeColor=none;opacity=30;" vertex="1" parent="rD__Bi_7_aJGjnoCtn_X-13">
           <mxGeometry width="180" height="36" as="geometry" />
         </mxCell>
         <mxCell id="rD__Bi_7_aJGjnoCtn_X-15" value="Acesso fisico" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=10;align=center;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="-748" y="-1322" width="180" height="30" as="geometry" />
+          <mxGeometry x="-140" y="-1335.5" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rD__Bi_7_aJGjnoCtn_X-16" value="" style="fillColor=#000000;strokeColor=none;opacity=30;" vertex="1" parent="rD__Bi_7_aJGjnoCtn_X-15">
           <mxGeometry width="180" height="30" as="geometry" />
@@ -180,10 +180,10 @@
           <mxGeometry x="-1100" y="-430" width="120" height="107" as="geometry" />
         </mxCell>
         <mxCell id="rD__Bi_7_aJGjnoCtn_X-46" value="Crachá RFID" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.5;align=center;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="-718" y="-1232" width="120" height="90" as="geometry" />
+          <mxGeometry x="-110" y="-1245.5" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rD__Bi_7_aJGjnoCtn_X-47" value="Validação automática" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.bpmn.shape;verticalLabelPosition=bottom;verticalAlign=top;outline=end;fontSize=13.5;align=center;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="-1086" width="45" height="45" as="geometry" />
+          <mxGeometry x="-72" y="-1099.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="rD__Bi_7_aJGjnoCtn_X-48" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=-0.05;entryPerimeter=0;lucidId=tCi74.-eWCWQ;" edge="1" parent="1" source="rD__Bi_7_aJGjnoCtn_X-46" target="rD__Bi_7_aJGjnoCtn_X-47">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -270,7 +270,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rD__Bi_7_aJGjnoCtn_X-68" value="Incidente detectado" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.bpmn.shape;verticalLabelPosition=bottom;verticalAlign=top;outline=end;fontSize=13.5;align=center;spacing=0;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="-957" y="-1367" width="45" height="54" as="geometry" />
+          <mxGeometry x="-919.5" y="-1367" width="45" height="54" as="geometry" />
         </mxCell>
         <mxCell id="rD__Bi_7_aJGjnoCtn_X-69" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.021;exitPerimeter=0;entryX=0.5;entryY=-0.042;entryPerimeter=0;lucidId=D~-8crL890ZL;" edge="1" parent="1" source="rD__Bi_7_aJGjnoCtn_X-13" target="rD__Bi_7_aJGjnoCtn_X-68">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -279,18 +279,21 @@
         </mxCell>
         <mxCell id="rD__Bi_7_aJGjnoCtn_X-70" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.05;exitY=0.5;exitPerimeter=0;entryX=-0.006;entryY=0.5;entryPerimeter=0;lucidId=O~-8GXl4rpnG;" edge="1" parent="1" source="rD__Bi_7_aJGjnoCtn_X-68" target="rD__Bi_7_aJGjnoCtn_X-71">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="-1020" y="-1340" />
+              <mxPoint x="-1020" y="-1213" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rD__Bi_7_aJGjnoCtn_X-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD__Bi_7_aJGjnoCtn_X-71" target="rD__Bi_7_aJGjnoCtn_X-56">
+        <mxCell id="rD__Bi_7_aJGjnoCtn_X-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rD__Bi_7_aJGjnoCtn_X-71" target="rD__Bi_7_aJGjnoCtn_X-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-1017" y="-1186" />
               <mxPoint x="-1017" y="-982" />
               <mxPoint x="-1420" y="-982" />
               <mxPoint x="-1420" y="-550" />
-              <mxPoint x="-2088" y="-550" />
-              <mxPoint x="-2088" y="-760" />
-              <mxPoint x="-2210" y="-760" />
+              <mxPoint x="-2180" y="-550" />
+              <mxPoint x="-2180" y="-753" />
             </Array>
           </mxGeometry>
         </mxCell>
